@@ -2,6 +2,9 @@
 
 int main(void)
 {
-    printf("%d",100);
-    return 0;
+int i;
+for(i =0; i <10; i ++){
+printf ("%d",i+1 );
+}
+return 0;
 }
